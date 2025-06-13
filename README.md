@@ -1,4 +1,5 @@
 Therapize Mental Health Platform 🨪
+
 This project supports a mental health platform by designing financial KPIs and metadata frameworks to improve therapist engagement and client matching accuracy.
 
 🔧 Tools Used
