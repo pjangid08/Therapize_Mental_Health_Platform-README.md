@@ -6,7 +6,7 @@
 
 ---
 
-##Tools Used
+## Tools Used
 Excel (Financial Modeling)
 Metadata Tables (Therapist/Client Matching Logic)
 
